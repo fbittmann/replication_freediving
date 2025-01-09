@@ -1,1 +1,6 @@
 # Replication files for "Analyzing Large-Scale Freediving Competition Data With a Special Focus on Gender Differences"
+
+**Abstract**
+>Large multinational associations such as the International Association for the Development of Apnea (AIDA) or the Confédération Mondiale des Activités Subaquatiques
+(CMAS) hold freediving competitions regularly and provide the results to the general public. Their databases are a highly reliable source for analyzing overall freediving results in the three most relevant disciplines (static breathholding, STA; distance freediving, DYN; deep freediving, CWT). For the first time, we analyze these large-scale datasets (N > 11,000; share of women = 33%) and report a wide range of descriptive results such as median outcomes based on personal bests: STA 256sec; DYN 102m; CWT 46.5m. The correlations between the three disciplines are between 0.52 and 0.65. Regression analyses reveal that men have better freediving results than women, on average, with an advantage of between 7.5% and 10%, depending on the discipline. Quantile regression models demonstrate that the gender gap grows with overall performance. It is the largest among elite freedivers but smaller among low- or average-performance freedivers.
+**Citation**
