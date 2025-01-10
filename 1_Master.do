@@ -16,6 +16,7 @@ set scheme plotplainblind			//Requires Ado, see below
 
 *** Required Ados ***
 *ssc install fre, replace
+*ssc install mibeta, replace
 *ssc install estout, replace
 *ssc install distplot, replace
 *ssc install blindschemes, replace
