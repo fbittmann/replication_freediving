@@ -35,4 +35,14 @@ Explanation: if a male freediver has a static time of 305 seconds, he has a bett
 ![variabilityDYNCWT](https://github.com/user-attachments/assets/7682e041-9e0e-4241-8e2b-1b276515ad8c)
 
 
+# Descriptive table
+![grafik](https://github.com/user-attachments/assets/0070b619-0c78-4d10-8987-0bab4bf7e2b5)
+
+# Correlation table
+![grafik](https://github.com/user-attachments/assets/3c57cb97-4815-48ff-843e-e1b0bec15739)
+
+# Gender differences (Regression table)
+![grafik](https://github.com/user-attachments/assets/a4a25cea-0ba1-41d8-a32f-ee645d789bdb)
+
+
 
