@@ -12,6 +12,7 @@ Bittmann, Felix (2025). Analyzing Large-Scale Freediving Competition Data With a
 # Descriptive results
 **STA by quantile and gender**
 ![grafik](https://github.com/user-attachments/assets/473eb53b-5563-443f-b7db-b5a5c9090d93)
+Explanation: if a male freediver has a static time of 305 seconds, he has a better competition result than 70% of the sample.
 
 **DYN by quantile and gender**
 ![grafik](https://github.com/user-attachments/assets/cb5071a4-1328-4605-8529-91eef5820b32)
@@ -23,3 +24,15 @@ Bittmann, Felix (2025). Analyzing Large-Scale Freediving Competition Data With a
 
 
 # Association of disciplines
+
+**Association of STA and DYN by gender**
+![variabilitySTADYN](https://github.com/user-attachments/assets/11da07ba-e490-4dc6-a8e2-b3400c3b4d81)
+
+**Association of STA and CWT by gender**
+![variabilitySTACWT](https://github.com/user-attachments/assets/3f2fe70b-a7ef-4745-bc31-b9a40eb63f3b)
+
+**Association of DYN and CWT by gender**
+![variabilityDYNCWT](https://github.com/user-attachments/assets/7682e041-9e0e-4241-8e2b-1b276515ad8c)
+
+
+
