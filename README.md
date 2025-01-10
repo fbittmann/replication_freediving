@@ -46,6 +46,6 @@ Explanation: if a male freediver has a static time of 305 seconds, he has a bett
 
 
 # Data
-Due to data protection issues, we have encrypted the datafile ("data.7zip"). You can get access by writing an email to the author (felix.bittmann@lifbi.de or felix.bittmann@uni-bamberg.de). If possible, use your institutional email for contact.
+Due to data protection issues, we have encrypted the datafile ("data.7zip"). You can get access by writing an email to the author (felix.bittmann@lifbi.de or felix.bittmann@uni-bamberg.de). If possible, use your institutional email for contact. Use the free software 7-Zip to extract the archive (https://7-zip.org/).
 
 
