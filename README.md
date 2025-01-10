@@ -40,6 +40,7 @@ Explanation: if a male freediver has a static time of 305 seconds, he has a bett
 
 # Correlation table
 ![grafik](https://github.com/user-attachments/assets/3c57cb97-4815-48ff-843e-e1b0bec15739)
+
 Note: Pearson's r. Pairwise case numbers in parentheses. All correlations are statistically significant on the 0.1% level.
 
 # Gender differences (Regression table)
