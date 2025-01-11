@@ -7,12 +7,13 @@
 **Citation**
 Bittmann, Felix (2025). Analyzing Large-Scale Freediving Competition Data With a Special Focus on Gender Differences, in: Sports Research International. DOI:
 
-
+**Data sources and imputation**
+Data are taken from the official websites (AIDA / CMAS). The data have been imputed using MICE with 25 datasets. The final number of N depends on the specific disciplines, see the descriptive table below.
 
 # Descriptive results
 **STA by quantile and gender**
 ![grafik](https://github.com/user-attachments/assets/473eb53b-5563-443f-b7db-b5a5c9090d93)
-Explanation: if a male freediver has a static time of 305 seconds, he has a better competition result than 70% of the sample.
+Explanation: if a male freediver has a static time of 305 seconds, he has a better competition result than 70% of the male competition sample.
 
 **DYN by quantile and gender**
 ![grafik](https://github.com/user-attachments/assets/cb5071a4-1328-4605-8529-91eef5820b32)
